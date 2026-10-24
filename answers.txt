@@ -1,0 +1,5 @@
+Q1: 3cef2c16
+Q2: 3
+Q3: git pull - Need to pull the commit I dont have and merge it with my work before Git will accept my push
+Q4: No - .gitignore only stops untracked files from being added in the future. Passwor is still in the old commit repository history allowing anyone to see it.
+Q5: git branch -d old-fix ; git push origin --delete old-fix
